@@ -9,7 +9,7 @@ This project performs a detailed **Exploratory Data Analysis (EDA)** on the Tita
 - Visualize data insights using plots.
 
 ## Dataset:
-The Titanic dataset can be found on [Kaggle](https://www.kaggle.com/c/titanic/data).
+The Titanic dataset can be found on [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset).
 
 ## Tools and Technologies:
 - **Pandas**: Data manipulation and cleaning.
