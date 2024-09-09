@@ -25,7 +25,7 @@ The Titanic dataset can be found on [Kaggle](https://www.kaggle.com/datasets/yas
 ## How to Run the Project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-eda.git
+   git clone https://github.com/SunnyBibyan/Exploratory-Data-Analysis-EDA-.git
 2. Install the required libraries:
    ```bash
    !pip install -r requirements.txt
