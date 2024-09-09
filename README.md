@@ -30,6 +30,4 @@ The Titanic dataset can be found on [Kaggle](https://www.kaggle.com/datasets/yas
    ```bash
    !pip install -r requirements.txt
 
-## How Future work:
-- Implement machine learning models to predict passenger survival.
-- Compare the performance of different algorithms based on insights gained from EDA.
+
